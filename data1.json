@@ -1,0 +1,46 @@
+{	
+	"data":[
+	{
+		"name":"Matcha Latte",
+		"food": 43.3,
+		"wight": 85.8,
+		"height": 93.7
+	},
+	{
+		"name":"Cheese Cocoa", 
+		"food": 86.4,
+		"wight": 65.2,
+		"height": 82.5
+	},
+	{
+		"name":"Milk Tea",
+		"food": 83.1,
+		"wight": 73.4,
+		"height": 55.1
+	},
+	{
+		"name":"Walnut Brownie", 
+		"food": 72.4,
+		"wight": 53.9,
+		"height": 39.1
+	},
+    {
+		"name":"Hello Kitty", 
+		"food": 72.3,
+		"wight": 83.9,
+		"height": 35.1
+	},
+    {
+		"name":"polar Bear", 
+		"food": 42.4,
+		"wight": 53.5,
+		"height": 49.1
+	},
+    {
+		"name":"Brown Dog", 
+		"food": 71.4,
+		"wight": 53.6,
+		"height": 30.1
+	}
+]
+}
